@@ -1,3 +1,10 @@
+xwayland (2:22.1.6-1.1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * Add hidpi patch 
+
+ -- David Rios <david.rios.gomes@gmail.com>  Sun, 18 Dec 2022 03:35:55 +0000
+
 xwayland (2:22.1.6-1) unstable; urgency=medium
 
   * New upstream release.
